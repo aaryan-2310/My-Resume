@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.name {
+    letter-spacing: 0.06em;
+    word-spacing: 0.15rem;
+    color: black;
+}
+
+#intro {
+    word-spacing: 0.4rem;
+    word-wrap: break-word;
+}
+
+.social-details {
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+}
+
+.features {
+    min-width: 5rem;
+    background-color: black;
+    color: white;
+    min-height: 3rem;
+    border-radius: 0.5rem;
+}
